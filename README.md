@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center"> This project is a smart home automation system that can be controlled via bluetooth using a mobile phone.
+<p> This project is a smart home automation system that can be controlled via bluetooth using a mobile phone.
     <br> 
 </p>
 
@@ -38,14 +38,14 @@ What things you need to install the software and how to install them.
 
 ### Installing
 
-1. Download and install the Proteus software from <a href = "https://getintopc.com/softwares/3d-cad/proteus-professional-2020-free-download/"></a> 
+1. Download and install the Proteus software from <a href = "https://getintopc.com/softwares/3d-cad/proteus-professional-2020-free-download/">https://getintopc.com/softwares/3d-cad/proteus-professional-2020-free-download/</a> 
 follow the instructions on the zip file to get it up and running
-2. Download and install the Arduino IDE from the official site <a href = "https://arduino.cc/en/software"></a>
-3. Download the Android App from <a href = "https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller"></a>
+2. Download and install the Arduino IDE from the official site <a href = "https://arduino.cc/en/software">https://arduino.cc/en/software</a>
+3. Download the Android App from <a href = "https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller">https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller</a>
 
 ## 🎈 Setup <a name="setup"></a>
 
-1. Before running simulations of the circuit on the proteus software, you'll need to install the Arduino and bluetooth library for proteus, You can download the library from <a href = "https://www.theengineeringprojects.com/2016/08/new-proteus-libraries-engineering-students.html" ></a> follow the instructions on the site to setup the library on proteus.
+1. Before running simulations of the circuit on the proteus software, you'll need to install the Arduino and bluetooth library for proteus, You can download the library from <a href = "https://www.theengineeringprojects.com/2016/08/new-proteus-libraries-engineering-students.html" >https://www.theengineeringprojects.com/2016/08/new-proteus-libraries-engineering-students.html</a> follow the instructions on the site to setup the library on proteus.
 After setting up the library, open the proteus file in the "Circuit" folder, then right click on the arduino and load the .hex file into it. 
 2. Now to setup the android app; open the app and go to "Buttons" click and hold a button to configure, now write the following for "ON" and "OFF" commands -> (1,2) for the first button, followed by (3,4),(5,6) and (7,8) for subsequent buttons.
 
