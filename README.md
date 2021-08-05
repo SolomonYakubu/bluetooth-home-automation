@@ -21,7 +21,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This project was inspired by Laziness😂😂, well lazy people finds easy ways to solve problems.. In my case, i built a simple Home Automation System so that i wouldn't have to keep getting up to turn on/off switches.
+This project was inspired by Laziness😂😂, well lazy people find easy ways to solve problems.. In my case, i built a simple Home Automation System so that i wouldn't have to keep getting up to turn on/off switches.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 You'll need; a PC running windows 7 and above, most prefferably windows 10. An android phone and a little patience 👌
@@ -40,9 +40,7 @@ What things you need to install the software and how to install them.
 
 1. Download and install the Proteus software from <a href = "https://getintopc.com/softwares/3d-cad/proteus-professional-2020-free-download/"></a> 
 follow the instructions on the zip file to get it up and running
-<br/>
 2. Download and install the Arduino IDE from the official site <a href = "https://arduino.cc/en/software"></a>
-
 3. Download the Android App from <a href = "https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller"></a>
 
 ## 🎈 Setup <a name="setup"></a>
@@ -61,4 +59,4 @@ finally, turn on your pc bluetooth and connect with the android app, you can now
 ## 🎉 Conclusion <a name = "conclusion"></a>
 
 You can easily control your home using this Home Automation System, you can buy the components used in this project and build a real life version if you wish.😃
-<a href = "mailto:soloyaks.sy@gmail.com">You can contact me via email for a guide in building a real life version</a>
+<a href = "mailto:soloyaks.sy@gmail.com">You can click here to contact me via email for a guide in building a real life version</a>
